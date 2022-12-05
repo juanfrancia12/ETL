@@ -1,4 +1,5 @@
 import factOrdenRouter from "./routes/fact_orden.routes";
+import albumnRouter from "./routes/albumn.routes";
 import cors from "cors";
 import express from "express";
 import morgan from "morgan";
@@ -17,5 +18,6 @@ app.use(express.json());
 
 // Routes
 app.use("/api", factOrdenRouter);
+app.use("/api", albumnRouter);
 
 export default app;

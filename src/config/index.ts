@@ -15,3 +15,6 @@ export const expiresIn = process.env.NODE_EXPIRES_IN;
 export const ID_ROLE_USER = process.env.NODE_ID_ROLE_USER;
 export const ID_ROLE_SELLER = process.env.NODE_ID_ROLE_SELLER;
 export const ID_ROLE_ADMIN = process.env.NODE_ID_ROLE_ADMIN;
+
+export const GET_ALL_FACTORDEN = process.env.NODE_GET_ALL_FACTORDEN;
+export const GET_ALL_ALBUMN = process.env.NODE_GET_ALL_ALBUMN;

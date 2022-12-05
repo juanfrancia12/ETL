@@ -1,3 +1,6 @@
+import { GET_ALL_FACTORDEN, GET_ALL_ALBUMN } from "../config";
+
 export const querys = {
-  getAllFactOrdernes: "SELECT * FROM FACTORDENES",
+  getAllFactOrdernes: GET_ALL_FACTORDEN,
+  getAllAlbumns: GET_ALL_ALBUMN,
 };
