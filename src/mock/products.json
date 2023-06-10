@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Cargador inalambrico",
+    "slug": "cargador-inalambrico",
+    "image": "/src/assets/cargador-inalambrico.png",
+    "description": "Carga flash de gran potencia de 20W agarres eléctricos con sensores, se mantiene firme incluso en los baches de las carreteras.",
+    "category": ["Accesorios"],
+    "price": 100,
+    "discount": 10,
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "name": "Cargador Movisum",
+    "slug": "cargador-movisum",
+    "image": "/src/assets/cargador-movisum.png",
+    "description": "Cargador portátil ROCKET X5 11000 3.0 – carga rápida",
+    "category": ["Accesorios", "Celulares"],
+    "price": 200,
+    "discount": 20,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "name": "Parlante JBL Bluetooth",
+    "slug": "parlante-jbl-bluetooth",
+    "image": "/src/assets/parlante-jbl-bluetooth.png",
+    "description": "Potente sonido JBL Original Pro y Hasta 20 horas de tiempo de reproducción",
+    "category": ["Audio", "Parlantes"],
+    "price": 300,
+    "discount": 30,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Ventilador de Laptop",
+    "slug": "ventilador-laptop",
+    "image": "/src/assets/ventilador-laptop.png",
+    "description": "Diseño moderno y ligero, comaptible desde mini laptop hasta 17 pulgadas, 2 Puertos Usb, Luz led, Botón On /Off, Potente ventilador de gran diametro",
+    "category": ["Accesorios"],
+    "price": 400,
+    "discount": 40,
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "Combo Gamer 4en1",
+    "slug": "combo-gamer-4en1",
+    "image": "/src/assets/combo-gamer-4en1.png",
+    "description": "Venta Click te traen lo mejor en accesorios para Zona Gamer. Kit 4 en 1 de Teclado + Mouse + Mousepad + Headset.",
+    "category": ["Computación", " Gamer", "Teclados y mouse"],
+    "price": 500,
+    "discount": 50,
+    "stock": 50
+  },
+  {
+    "id": 6,
+    "name": "HYPERX",
+    "slug": "microfono-hyperx",
+    "image": "/src/assets/microfono-hyperx.png",
+    "description": "Micrófono HyperX Quadcast S RGB Streaming para PC PS4 PS5 Mac - Blanco",
+    "category": ["Audio", "Microfonos"],
+    "price": 600,
+    "discount": 60,
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "name": "EZVIZ",
+    "slug": "camara-seguridad-ezviz",
+    "image": "/src/assets/camara-seguridad-ezviz.webp",
+    "description": "Cámara de seguridad Ezviz C2C wifi, interior, 1080P, fija, infrarrojo.",
+    "category": ["Hogar", "Seguridad", "Camaras de Seguridad"],
+    "price": 700,
+    "discount": 70,
+    "stock": 70
+  },
+  {
+    "id": 8,
+    "name": "HUAWEI",
+    "slug": "smartwatch-reloj-huawei",
+    "image": "/src/assets/smartwatch-reloj-huawei.png",
+    "description": "Smartwatch Huawei Watch Fit 2, resistente al agua, máx. 10 días, modos deportivos, negro",
+    "category": ["Celulares", "Accesorio", "Smartwatch"],
+    "price": 800,
+    "discount": 80,
+    "stock": 80
+  }
+]
